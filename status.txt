@@ -1,1 +1,1 @@
-{"event_type":"status_event", "message":"ping ok"}
+{"event_type":"basic_enum_event", "message":"ping ok"}
