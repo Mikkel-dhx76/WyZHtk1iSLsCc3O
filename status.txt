@@ -1,1 +1,1 @@
-{"event_type": { "key":"basic_enum_event", "type":"none" }, "message":"ping ok"}
+{"event_type": { "key":"status_event", "type":"none" }, "message":"ok"}
