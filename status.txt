@@ -1,1 +1,1 @@
-{"event_type": { "key":"status_event", "type":"none" }, "message":"ok"}
+{"event_type": { "key":"eval_event", "type":"none" }, "data": {"evaluate": "me little luminous lavish lovely lively "}}
